@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Api from "./Api";
-import Content from "./Content";
 
 
 
