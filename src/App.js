@@ -13,6 +13,13 @@ function App() {
     <div className="App" style={{padding:30}}>
         <button onClick={showApi}>Hiện Post</button>
         {show && <Api/>}
+        <ul>
+          <li>asdasd</li>
+          <li>asdasd</li>
+          <li>asdasd</li>
+          <li>asdasd</li>
+          <li>asdasd</li>
+        </ul>
     </div>
   );
 }
